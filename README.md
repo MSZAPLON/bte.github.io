@@ -1,2 +1,0 @@
-# mszaplon.github.io
- website
