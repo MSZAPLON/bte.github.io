@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xc702459910Aef32de0f81eBD9b2Bce86E93B1aA9",
+  "SCAN_LINK": "https://andromeda-explorer.metis.io//address/0xc702459910Aef32de0f81eBD9b2Bce86E93B1aA9",
+  "NETWORK": {
+    "NAME": "Andromeda",
+    "SYMBOL": "Metis",
+    "ID": 1088
+  },
+  "NFT_NAME": "BTED",
+  "SYMBOL": "BTE Dragon",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 1200000,
+  "HOME": "HOME",
+  "HOME_LINK": "https://backtoerathia.tech",
+  "MARKET": "TofuNFT",
+  "MARKET_LINK": "https://tofunft.com/collection/bte-dragons/items",
+  "SHOW_BACKGROUND": true
+}
